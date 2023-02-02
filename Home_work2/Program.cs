@@ -20,7 +20,7 @@ Console.WriteLine($"A finite number: {numAlt}");
 
 // Задача 13: Напишите программу, которая выводит третью цифру заданного числа.
 
-
+/*
  int ThirdDigit ( int num )
  {
     int result = -1;
@@ -54,6 +54,7 @@ Console.WriteLine($"A finite number: {numAlt}");
  int number = Convert.ToInt32(Console.ReadLine());
  int digit = ThirdDigit(number);
  Console.WriteLine($"{digit} the third digit of the number {number}");
+ */
 
 // Задача 15: Напишите программу, которая принимает на вход цифру, 
 // обозначающую день недели, и проверяет, является ли этот день выходным.
